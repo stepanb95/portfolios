@@ -1,0 +1,61 @@
+body {
+    background-color: aqua;
+}
+.navbarr{
+    display: flex;
+    flex-direction: row;
+    font-size: 40px;
+    margin: 35px;
+    gap: 35px;
+    justify-content: center;
+    border: 2px black solid;
+    width: 500px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 420px;
+    text-decoration: none;
+    
+}
+
+.text{
+    color: black;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    gap: 100px;
+    margin-top: 30px;
+}
+.obraz{
+    margin-left: -60px;
+    border: 2px black solid;
+    
+}
+
+.obrazky{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    
+}
+.obraz1{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 8px;
+}
+.nadpis{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.kontakt{
+    margin-left: 350px;
+    margin-top: 50px;
+    width: 600px;
+    
+    
+}
